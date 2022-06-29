@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dado que esteja logado na url:http://www.saucedemo.com
+Quando inserir nos campos de entrada dados válidos, eclicar no botão&quot;Login&quot;
+Então o acesso a tela de inicio do site será aberto.</description>
+   <name>CT 01 Login Dados Validos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db9b700c-a178-429e-992d-eb3249b05eb4</testCaseGuid>
+</TestCaseEntity>
